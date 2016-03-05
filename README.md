@@ -4,7 +4,7 @@ Your mission, should you choose to accept it, is to help Scotch Mornington (the 
 
 ## Let's get acquainted...
 
-Let's get you up to speed with what exactly you're building.  First watch the video [here](www.video.com) to see a walkthrough of the app.
+Let's get you up to speed with what exactly you're building.  First watch the video [here](https://github.com/FrenchGirls/ios-coding-challenge/blob/master/demo_video/Disguise-o-Rama%20Demo.mov) to see a walkthrough of the app.
 
 You should note the app basically has two components:  The intro screen which explains how the app works to the user, and the main screen that lets the user select a costume for Scotch.  Most of the action happens on the second screen, so let's talk about that.
 
