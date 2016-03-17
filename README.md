@@ -14,7 +14,7 @@ You'll also note that when you first arrive at the main screen, there are three 
 
 ## What you'll need
 
-First, check the res folder of this project to get all the resources you'll need from our artist, Graydon.  They include:
+First, check the res folder of this project.  We've included all the great assets that our artist Graydon has made for us!  They include:
 * config.plist
     * The configuration information for the default costumes in plist form.  The API will mirror this structure.  Be sure to check the alignment information.  Hint:  display_x/y helps align the thumbnails, and alignment_x/y helps align the costumes on top of Scotch.
 * Assets.xcassets
@@ -29,11 +29,9 @@ The only other resource you should need is our REST API set up for this project.
 We understand that you don't have all the time in the world to set around and code hilarious apps, so we don't necesarily expect you to complete this app fully, although if you do, more kudos to you.  However, we want to see how you plan and attack an app from the ground up that includes some basic REST API usage, fancy UI, and a little architecture.  So here's what we'd like you to do:
 
 1. Create a github repo, and commit an empty README.
-1. Write down what you think a minimum viable product (MVP) version of this app looks like.
-1. Write down your general strategy for actually writing the app.
+1. Take some time to figure out all of the different tasks that need to be done to complete this app.  Write them down as if you were planning this project yourself.  These may take the form of user stories, checklists, an outline of features, whatever makes the most sense to you.  This step doesn't need to be very technical, it just needs to identify all the unique chunks of work that you think would be required to complete this app.  However you decide to tackle it, document your work in your github repo.
+1. Next, take some time to get more technical.  Plan out what the major technical components are, and define how they work together.  This is your chance to be an architect and make high-level decisions about what technology you want to use, and how you want to implement it.  Write this technical strategy down in a way that you feel would be useful if you were to actually code this project.
 1. Commit these two items to your github repo.
-1. Start coding!  Commit code along the way however you normally would, and write your code as if you're planning to release this app yourself!
-1. Get as far as you can towards your MVP to convince yourself that you have some interesting work to show.  If you want to stop there, make sure your github repo is up to date with your latest changes, and email hiring+ios@frenchgirlsapp.com.  If you've received specific instructions to email one of us directly, please do that as well.
-1. If you'd like to keep coding to project completion, by all means, please do!  Please be aware that a crudely executed completed app will probably be less desirable than a well executed skeleton.  Whenever you feel done, make sure your github repo is up to date with your latest changes, and email hiring+ios@frenchgirlsapp.com.  If you've received specific instructions to email one of us directly, please do that as well.
+1. Email hiring+ios@frenchgirlsapp.com with a link to your github repo!  If you've been contacted by someone at the French Girls team, feel free to email them directly #as well#!
 
 That's it!  Good luck, and have fun!  Hopefully we'll work with you soon!
